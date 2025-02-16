@@ -20,4 +20,4 @@ Q5)To find the mean temperature, wind speed and visibility?
 Q6)To find the variance of pressure ?
 Q7)find the number of times when the"wind speed was exactly 4km/h
 Q8)What is the Minimum & Maximum value of each column against each 'Weather Condition
-Q9) To display a graph of variation of temperature with respect to time ?
+Q9) To display a pie chart of percentages of weather conditions (pie chart)
